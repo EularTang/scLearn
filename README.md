@@ -1,4 +1,4 @@
-# **scLearn: Learning for single cell assignment**
+# **ScLearn: Learning for single cell assignment**
 
 ## **Introduction**
 * **scLearn** is a learning-based framework that automatically infers quantitative measurement/similarity that can be used for different single cell assignment tasks, achieving a well-generalized performance on different single cell types. 
